@@ -1,0 +1,77 @@
+<mxfile host="app.diagrams.net" modified="2023-12-03T15:46:17.546Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="KYMBuEPWIJ1Ar5OSfHnJ" version="21.3.2" type="github">
+  <diagram name="Página-1" id="EQxA5Od2Q3lQZ3v4GBOc">
+    <mxGraphModel dx="1050" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GFYhtWjBYcAE8isCYqtC-1" value="Ciência de Dados/&lt;br&gt;Engenheiro de ML" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GFYhtWjBYcAE8isCYqtC-2" value="Scala" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="354" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GFYhtWjBYcAE8isCYqtC-3" value="Rust" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;shadow=1;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="200" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GFYhtWjBYcAE8isCYqtC-4" value="Kubernetes" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="510" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GFYhtWjBYcAE8isCYqtC-5" value="AWS" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="660" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GFYhtWjBYcAE8isCYqtC-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GFYhtWjBYcAE8isCYqtC-10" target="GFYhtWjBYcAE8isCYqtC-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="An Introduction to Statistical Learning" link="https://www.statlearning.com/" id="GFYhtWjBYcAE8isCYqtC-10">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;shadow=1;" parent="1" vertex="1">
+            <mxGeometry x="70" y="330" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Data Science Roadmap" link="https://roadmap.sh/ai-data-scientist" id="GFYhtWjBYcAE8isCYqtC-12">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;shadow=1;" parent="1" vertex="1">
+            <mxGeometry x="70" y="490" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="GFYhtWjBYcAE8isCYqtC-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GFYhtWjBYcAE8isCYqtC-16" target="GFYhtWjBYcAE8isCYqtC-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="AWS Expert" link="https://www.linuxtips.io/path-player?courseid=aws-expert&amp;unit=63a488d768e3faaa9d033308Unit" id="GFYhtWjBYcAE8isCYqtC-16">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;" parent="1" vertex="1">
+            <mxGeometry x="294" y="330" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Descomplicando Kubernetes" link="https://www.linuxtips.io/path-player?courseid=descomplicando-o-kubernetes-expert-mode&amp;unit=637c8f62a2320103c4014177Unit" id="GFYhtWjBYcAE8isCYqtC-17">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;" parent="1" vertex="1">
+            <mxGeometry x="294" y="490" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Rust Roadmap" link="https://roadmap.sh/rust" id="GFYhtWjBYcAE8isCYqtC-19">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;shadow=1;fontColor=#000000;" parent="1" vertex="1">
+            <mxGeometry x="520" y="330" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="GFYhtWjBYcAE8isCYqtC-20" value="Trilhas" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;shadow=1;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="840" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GFYhtWjBYcAE8isCYqtC-22" value="Security Champion" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;shadow=1;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="750" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GFYhtWjBYcAE8isCYqtC-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="GFYhtWjBYcAE8isCYqtC-24" target="GFYhtWjBYcAE8isCYqtC-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GFYhtWjBYcAE8isCYqtC-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GFYhtWjBYcAE8isCYqtC-24" target="GFYhtWjBYcAE8isCYqtC-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GFYhtWjBYcAE8isCYqtC-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GFYhtWjBYcAE8isCYqtC-24" target="GFYhtWjBYcAE8isCYqtC-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GFYhtWjBYcAE8isCYqtC-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="GFYhtWjBYcAE8isCYqtC-24" target="GFYhtWjBYcAE8isCYqtC-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GFYhtWjBYcAE8isCYqtC-24" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="430" y="150" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
