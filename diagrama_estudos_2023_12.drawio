@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-04T10:17:45.189Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="EIv33NV5O5LeQHyxuE4j" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-04T10:18:50.004Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="F3gSPmfgTJqtGtUkhjpN" version="22.1.16" type="github">
   <diagram name="Página-1" id="EQxA5Od2Q3lQZ3v4GBOc">
     <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -53,6 +53,9 @@
         <mxCell id="GFYhtWjBYcAE8isCYqtC-20" value="Trilhas" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;shadow=1;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="840" y="40" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="QWYf4EimEr6cd_DEaJjt-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GFYhtWjBYcAE8isCYqtC-22" target="QWYf4EimEr6cd_DEaJjt-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GFYhtWjBYcAE8isCYqtC-22" value="Security Champion" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;shadow=1;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="750" y="380" width="120" height="60" as="geometry" />
         </mxCell>
@@ -93,6 +96,9 @@
         </mxCell>
         <mxCell id="QWYf4EimEr6cd_DEaJjt-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/material-core/20/check-circle-128.png" vertex="1" parent="1">
           <mxGeometry x="742" y="420" width="38" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="QWYf4EimEr6cd_DEaJjt-2" value="Chapter Cloud" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;shadow=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="750" y="525" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
